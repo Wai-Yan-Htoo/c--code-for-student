@@ -1,0 +1,7 @@
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\bin\Debug\mostusage.exe.config
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\bin\Debug\mostusage.exe
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\bin\Debug\mostusage.pdb
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\obj\Debug\mostusage.csprojAssemblyReference.cache
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\obj\Debug\mostusage.csproj.CoreCompileInputs.cache
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\obj\Debug\mostusage.exe
+G:\mywork\KBTCProgramming\allmylife\c#\selfstudy\closefunction\mostusage\obj\Debug\mostusage.pdb
