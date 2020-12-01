@@ -1,0 +1,11 @@
+Go to google console developer mode
+credential
+         1. web application
+         2. give url (host,port)
+         3. url(host,port,index)  index=route  localhost:5000/signin-google
+
+app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "787381435610-5onpg11or4fhjerqq8tc8a6si1ojba7a.apps.googleusercontent.com",
+                ClientSecret = "CdLzVz0J9yrfbbdaKZpUMRZ6"
+            });
